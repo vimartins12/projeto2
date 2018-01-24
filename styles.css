@@ -1,5 +1,12 @@
 body{
     margin: 0;
+    background-image: radial-gradient(red, green, blue);
+    background-size: auto;
+
+.img {
+  opacity: 0.5;
+}
+
 }
 
 h1{
@@ -15,6 +22,12 @@ h1{
     margin-bottom: 10px;
 }
 
+.img{
+  opacity: 50%;
+
+}
+
+}
 .margin{
     margin: 0 5%;
 }
